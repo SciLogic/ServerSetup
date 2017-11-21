@@ -1,6 +1,6 @@
 # Apache Web Server installer
 # Create and setup a full Apache instance to get your server up and running on the web
-# Creator: ZSmith
+# Creator: ZSM
 
 #COLOURS
 Red='\033[0;31m'	# Red
